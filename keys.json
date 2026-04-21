@@ -1,0 +1,22 @@
+{
+  "cards": [
+    {
+      "key": "ABC123",
+      "status": "active",
+      "expire": "2025-12-31",
+      "remark": "测试卡"
+    },
+    {
+      "key": "VIP666",
+      "status": "active",
+      "expire": "2099-12-31",
+      "remark": "永久卡"
+    },
+    {
+      "key": "TEST000",
+      "status": "disabled",
+      "expire": "2025-01-01",
+      "remark": "禁用卡"
+    }
+  ]
+}
